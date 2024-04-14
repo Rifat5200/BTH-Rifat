@@ -128,10 +128,10 @@ while True:
         color4 = random.choice(colors)
         color5 = random.choice(colors)
         os.system("clear")  
-      logo = figlet_format("BTH")
+      logo = figlet_format("BTH Team")
         print(color1 + logo)
         line = color3 + "-------------------------------------------------"
-        print(color2 + "Telgram : @@BDTermuxHacker_Official")
+        print(color2 + "Telgram : @BDTermuxHacker_Official")
         print(color3 + "Tools virson : 1.0")
         print(color4 + "Tools Type: Custom Sms Sender")
         print(color1 + "github : @BDTermuxHacker")
