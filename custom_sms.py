@@ -128,7 +128,7 @@ while True:
         color4 = random.choice(colors)
         color5 = random.choice(colors)
         os.system("clear")  
-      logo = figlet_format("BDTermuxHacker")
+      logo = figlet_format("BTH")
         print(color1 + logo)
         line = color3 + "-------------------------------------------------"
         print(color2 + "Telgram : @@BDTermuxHacker_Official")
