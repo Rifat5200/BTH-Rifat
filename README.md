@@ -8,7 +8,7 @@ pkg install git -y
 
 pkg install python -y
 
-git clone https://github.com/Rifat5200/BTH-Rifat.git
+git clone https://github.com/Rifat5200/BTH-Rifat/
 
 cd BTH-Rifat
 
